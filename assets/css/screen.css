@@ -979,7 +979,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 }
 
 .post-full-title {
-    margin: 0 0 0.2em;
+    margin: 0 0 5.2em;
     color: color(var(--darkgrey) l(-5%));
 }
 
